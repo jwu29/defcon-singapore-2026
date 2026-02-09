@@ -1,0 +1,6 @@
+Dataset,Attack_Label,MITRE_ATT_CK_Tactic,MITRE_ATT_CK_Technique_Example,Cyber_Kill_Chain_Phase
+NF-BoT-IoT-v3,Benign,-,-,-
+NF-BoT-IoT-v3,DoS,Impact,T1498 - Network Denial of Service,Actions on Objectives
+NF-BoT-IoT-v3,DDoS,Impact,T1498 - Network Denial of Service,Actions on Objectives
+NF-BoT-IoT-v3,Reconnaissance,Reconnaissance,T1046 - Network Service Scanning,Reconnaissance
+NF-BoT-IoT-v3,Theft,Exfiltration,T1041 - Exfiltration Over C2 Channel,Actions on Objectives

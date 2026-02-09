@@ -1,0 +1,11 @@
+Dataset,Attack_Label,MITRE_ATT_CK_Tactic,MITRE_ATT_CK_Technique_Example,Cyber_Kill_Chain_Phase
+NF-ToN-IoT-v3,Benign,-,-,-
+NF-ToN-IoT-v3,ddos,Impact,T1498 - Network Denial of Service,Actions on Objectives
+NF-ToN-IoT-v3,xss,Initial_Access,T1189 - Drive-by Compromise (XSS),Delivery
+NF-ToN-IoT-v3,password,Credential_Access,T1110 - Brute Force,Exploitation
+NF-ToN-IoT-v3,scanning,Discovery,T1046 - Network Service Scanning,Reconnaissance
+NF-ToN-IoT-v3,injection,Execution,T1059 - Command and Scripting Interpreter,Exploitation
+NF-ToN-IoT-v3,dos,Impact,T1499 - Endpoint Denial of Service,Actions on Objectives
+NF-ToN-IoT-v3,Backdoor,Persistence,T1547 - Boot or Logon Autostart Execution,Installation
+NF-ToN-IoT-v3,mitm,Credential_Access,T1557 - Adversary-in-the-Middle,Exploitation
+NF-ToN-IoT-v3,ransomware,Impact,T1486 - Data Encrypted for Impact,Actions on Objectives

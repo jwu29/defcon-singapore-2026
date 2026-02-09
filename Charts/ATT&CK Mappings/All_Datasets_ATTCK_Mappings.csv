@@ -1,0 +1,41 @@
+Dataset,Attack_Label,MITRE_ATT_CK_Tactic,MITRE_ATT_CK_Technique_Example,Cyber_Kill_Chain_Phase
+NF-BoT-IoT-v3,Benign,-,-,-
+NF-BoT-IoT-v3,DoS,Impact,T1498 - Network Denial of Service,Actions on Objectives
+NF-BoT-IoT-v3,DDoS,Impact,T1498 - Network Denial of Service,Actions on Objectives
+NF-BoT-IoT-v3,Reconnaissance,Reconnaissance,T1046 - Network Service Scanning,Reconnaissance
+NF-BoT-IoT-v3,Theft,Exfiltration,T1041 - Exfiltration Over C2 Channel,Actions on Objectives
+NF-CICIDS2018-v3,Benign,-,-,-
+NF-CICIDS2018-v3,DDOS_attack-HOIC,Impact,T1498.001 - Direct Network Flood,Actions on Objectives
+NF-CICIDS2018-v3,FTP-BruteForce,Credential_Access,T1110.001 - Password Guessing,Exploitation
+NF-CICIDS2018-v3,DDoS_attacks-LOIC-HTTP,Impact,T1498.001 - Direct Network Flood,Actions on Objectives
+NF-CICIDS2018-v3,Bot,Command_and_Control,T1071 - Application Layer Protocol,Command and Control
+NF-CICIDS2018-v3,SSH-Bruteforce,Credential_Access,T1110.001 - Password Guessing,Exploitation
+NF-CICIDS2018-v3,Infilteration,Lateral_Movement,T1071 - Application Layer Protocol,Actions on Objectives
+NF-CICIDS2018-v3,DoS_attacks-SlowHTTPTest,Impact,T1499.002 - Service Exhaustion Flood,Actions on Objectives
+NF-CICIDS2018-v3,DoS_attacks-Hulk,Impact,T1498.001 - Direct Network Flood,Actions on Objectives
+NF-CICIDS2018-v3,DoS_attacks-GoldenEye,Impact,T1499.002 - Service Exhaustion Flood,Actions on Objectives
+NF-CICIDS2018-v3,DoS_attacks-Slowloris,Impact,T1499.002 - Service Exhaustion Flood,Actions on Objectives
+NF-CICIDS2018-v3,DDOS_attack-LOIC-UDP,Impact,T1498.001 - Direct Network Flood,Actions on Objectives
+NF-CICIDS2018-v3,Brute_Force_-Web,Credential_Access,T1110.001 - Password Guessing,Exploitation
+NF-CICIDS2018-v3,Brute_Force_-XSS,Initial_Access,T1189 - Drive-by Compromise (XSS),Delivery
+NF-CICIDS2018-v3,SQL_Injection,Initial_Access,T1190 - Exploit Public-Facing Application,Exploitation
+NF-ToN-IoT-v3,Benign,-,-,-
+NF-ToN-IoT-v3,ddos,Impact,T1498 - Network Denial of Service,Actions on Objectives
+NF-ToN-IoT-v3,xss,Initial_Access,T1189 - Drive-by Compromise (XSS),Delivery
+NF-ToN-IoT-v3,password,Credential_Access,T1110 - Brute Force,Exploitation
+NF-ToN-IoT-v3,scanning,Discovery,T1046 - Network Service Scanning,Reconnaissance
+NF-ToN-IoT-v3,injection,Execution,T1059 - Command and Scripting Interpreter,Exploitation
+NF-ToN-IoT-v3,dos,Impact,T1499 - Endpoint Denial of Service,Actions on Objectives
+NF-ToN-IoT-v3,Backdoor,Persistence,T1547 - Boot or Logon Autostart Execution,Installation
+NF-ToN-IoT-v3,mitm,Credential_Access,T1557 - Adversary-in-the-Middle,Exploitation
+NF-ToN-IoT-v3,ransomware,Impact,T1486 - Data Encrypted for Impact,Actions on Objectives
+NF-UNSW-NB15-v3,Benign,-,-,-
+NF-UNSW-NB15-v3,Analysis,Reconnaissance,T1595 - Active Scanning,Reconnaissance
+NF-UNSW-NB15-v3,Backdoor,Defense_Evasion,T1036 - Masquerading,Installation
+NF-UNSW-NB15-v3,DoS,Impact,T1499 - Endpoint Denial of Service,Actions on Objectives
+NF-UNSW-NB15-v3,Exploits,Initial_Access,T1190 - Exploit Public-Facing Application,Exploitation
+NF-UNSW-NB15-v3,Fuzzers,Impact,T1499 - Endpoint Denial of Service,Reconnaissance
+NF-UNSW-NB15-v3,Generic,Credential_Access,T1110 - Brute Force,Exploitation
+NF-UNSW-NB15-v3,Reconnaissance,Reconnaissance,T1046 - Network Service Scanning,Reconnaissance
+NF-UNSW-NB15-v3,Shellcode,Defense_Evasion,T1055 - Process Injection,Installation
+NF-UNSW-NB15-v3,Worms,Impact,T1570 - Lateral Tool Transfer,Actions on Objectives

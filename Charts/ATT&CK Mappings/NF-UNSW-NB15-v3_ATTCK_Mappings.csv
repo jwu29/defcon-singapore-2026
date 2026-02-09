@@ -1,0 +1,11 @@
+Dataset,Attack_Label,MITRE_ATT_CK_Tactic,MITRE_ATT_CK_Technique_Example,Cyber_Kill_Chain_Phase
+NF-UNSW-NB15-v3,Benign,-,-,-
+NF-UNSW-NB15-v3,Analysis,Reconnaissance,T1595 - Active Scanning,Reconnaissance
+NF-UNSW-NB15-v3,Backdoor,Defense_Evasion,T1036 - Masquerading,Installation
+NF-UNSW-NB15-v3,DoS,Impact,T1499 - Endpoint Denial of Service,Actions on Objectives
+NF-UNSW-NB15-v3,Exploits,Initial_Access,T1190 - Exploit Public-Facing Application,Exploitation
+NF-UNSW-NB15-v3,Fuzzers,Impact,T1499 - Endpoint Denial of Service,Reconnaissance
+NF-UNSW-NB15-v3,Generic,Credential_Access,T1110 - Brute Force,Exploitation
+NF-UNSW-NB15-v3,Reconnaissance,Reconnaissance,T1046 - Network Service Scanning,Reconnaissance
+NF-UNSW-NB15-v3,Shellcode,Defense_Evasion,T1055 - Process Injection,Installation
+NF-UNSW-NB15-v3,Worms,Impact,T1570 - Lateral Tool Transfer,Actions on Objectives
